@@ -51,7 +51,7 @@ Start the server
 
 The above commands will connect the database and server side, on the port:- **http://localhost:8080**
 
-![](https://raw.githubusercontent.com/Manya8304/ss/c00d85be8a48e8e714b893559c70e709a2b19263/8.png)
+![](https://github.com/Manya8304/ss/blob/main/8.png?raw=true)
 
 Now, to start the client-side, follow these steps:-
 
@@ -74,27 +74,26 @@ Start the server
 ```
 The site is live on the port:- **http://localhost:5173/**
 
-![](https://raw.githubusercontent.com/Manya8304/ss/c00d85be8a48e8e714b893559c70e709a2b19263/9.png)
+![](https://github.com/Manya8304/ss/blob/main/9.png?raw=true)
 
 The clone will look as follow:-
 
-![](https://raw.githubusercontent.com/Manya8304/ss/c00d85be8a48e8e714b893559c70e709a2b19263/10.png)
-
+![](https://github.com/Manya8304/ss/blob/main/10.png?raw=true)
 where we can see images of other users, which prompt they used to generate them and can even download them.
 
-![](https://raw.githubusercontent.com/Manya8304/ss/c00d85be8a48e8e714b893559c70e709a2b19263/11.png)
+![](https://github.com/Manya8304/ss/blob/main/11.png?raw=true)
 
 By clicking, "Create" button on the top-right, we can create and share AI generated images.
 
-![](https://raw.githubusercontent.com/Manya8304/ss/c00d85be8a48e8e714b893559c70e709a2b19263/12.png)
+![](https://github.com/Manya8304/ss/blob/main/12.png?raw=true)
 
 We can enter our own prompts or select the prompts using "Surprise Me" button.
 
-![](https://raw.githubusercontent.com/Manya8304/ss/c00d85be8a48e8e714b893559c70e709a2b19263/13.png)
+![](https://github.com/Manya8304/ss/blob/main/13.png?raw=true)
 
 Search option, to look for a particular image/topic:-
 
-![](https://raw.githubusercontent.com/Manya8304/ss/c00d85be8a48e8e714b893559c70e709a2b19263/14.png)
+![](https://github.com/Manya8304/ss/blob/main/14.png?raw=true)
 ## Documentation
 
 [OpenAI Image Generation](https://platform.openai.com/docs/guides/images/introduction?context=node)
